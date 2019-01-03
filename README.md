@@ -1,4 +1,4 @@
-# aws-cli-cheetsheet
+# aws-cli Useful Commands
 AWS CLI Useful Commands 
 
 ## Getting The Latest AMI:
