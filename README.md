@@ -1,5 +1,5 @@
-# aws-cli Useful Commands
-AWS CLI Useful Commands 
+# AWS CLI Useful Commands
+Here I add useful commnads to the list.
 
 ## Getting The Latest AMI:
 ### Ubuntu 16.04
